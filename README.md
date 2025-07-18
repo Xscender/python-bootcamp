@@ -14,7 +14,7 @@ Course link: [100 Days of Code: The Complete Python Pro Bootcamp](https://www.ud
 
 
 ## Level
-  - 🐣 Beginner
+  - 🐣 [Beginner](https://github.com/kiyun-kim/python-bootcamp/tree/9a58ebaaab91f52f135dba9620b1e118207f34c7/beginner)
   
   - 📚 Intermediate
   
