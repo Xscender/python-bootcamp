@@ -1,4 +1,4 @@
-# 🚀 python-bootcamp
+# 🚀 Python Bootcamp
 
 Hello there!
 
